@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Music Application</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="nav_rock">Rock</string>
+    <string name="nav_classic">Classic</string>
+    <string name="nav_pop">Pop</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="rock">Rock</string>
+</resources>
